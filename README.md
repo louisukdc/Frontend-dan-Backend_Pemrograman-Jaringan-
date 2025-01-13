@@ -23,3 +23,5 @@ FRONTEND:
 5. npm i react-router-dom axios bulma
 6. npm i web-vitals (in case web-vitals doesnt included on dependece system)
 7. npm start
+
+why do i write documentation way to simple, cause this system still on progressing i build my self... so I hope you keep calm and enjoy your time pal....
